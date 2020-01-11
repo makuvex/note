@@ -1,6 +1,8 @@
 # note
 실행명령 -> sudo forever start -c "npm start" ./
 
+sudo forever start -w -c "npm start" ./
+
 express
 express-generator
 
